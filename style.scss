@@ -99,7 +99,7 @@ border-radius: 30px;
 }
 
 button{
-    background-color: rgba(124,135,152,255);
+    background-color: rgba(250,119,20,255);
     color: rgba(196,199,204,255);
     height: 40px;
     width: 75%;
@@ -110,9 +110,9 @@ button{
 }
 
 button:hover{
-    background-color: rgba(250,119,20,255);
+    background-color: white;
     cursor: pointer;
-   
+    color: rgba(250,119,20,255);;
 
 }
 

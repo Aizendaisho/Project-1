@@ -91,7 +91,7 @@ p {
 }
 
 button {
-  background-color: rgb(124, 135, 152);
+  background-color: rgb(250, 119, 20);
   color: rgb(196, 199, 204);
   height: 40px;
   width: 75%;
@@ -102,8 +102,9 @@ button {
 }
 
 button:hover {
-  background-color: rgb(250, 119, 20);
+  background-color: white;
   cursor: pointer;
+  color: rgb(250, 119, 20);
 }
 
 .active {
