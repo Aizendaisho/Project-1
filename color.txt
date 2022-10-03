@@ -1,0 +1,7 @@
+fondo body 		rgba(20,21,25,255)
+fondo project 		rgba(31,38,48,255)
+color font parrafo 	rgba(95,102,112,255)
+color font h1 		rgba(196,199,204,255)
+color boton 		rgba(40,47,57,255)
+color boton active	rgba(124,135,152,255)
+color boton hover 	rgba(250,119,20,255)
