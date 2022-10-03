@@ -109,6 +109,7 @@ button:hover {
 
 .active {
   background: rgb(124, 135, 152);
+  color: white;
 }
 
 .hide {
